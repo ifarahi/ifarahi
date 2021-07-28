@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! Nice to meet you 👋
 
-<!--
-**ifarahi/ifarahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**About me:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm a Full-Stack JavaScript Developer, Currently I'm specialized in **ReactJs** and **NodeJs**. 
+
+* I studied software engineering at [1337](https://1337.ma) a part of [42 network](https://www.42.fr/42-network). 
+
+
+* I do love playing soccer :soccer: lifting weights 🏋️ listening to music 🎵 and reading 📖
+
+<!-- * I love equally drinking both, Coffee :coffee: and The Moroccan :morocco: Tea :tea: -->
